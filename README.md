@@ -10,7 +10,7 @@
 
 ## 🧠 Skills I’m Learning
 
-* Programming with C, C++, Java, Python
+* Programming with C, C++, Python
 * Data Structures & Algorithms
 * Full-Stack Development (MERN)
 * Git & GitHub
@@ -24,5 +24,5 @@
 
 ## 📫 Connect With Me
 
-💼 GitHub: *add your profile link here*
-📧 Email: *optional*
+💼 GitHub: https://github.com/SunnyDutta172
+📧 Email: sunnyrizzler123@gmail.com
